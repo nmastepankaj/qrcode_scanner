@@ -1,0 +1,24 @@
+#sendqr {
+    height:2rem;
+    width:25rem;
+    align-self: center;
+    background-color: antiquewhite;
+    border-radius: 0.2rem;
+    margin: 1rem 10rem;;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+
+}
+
+#content2{
+    height:2rem;
+    width:25rem;
+    align-self: center;
+   
+    border-radius: 0.2rem;
+    margin: 1rem 10rem;;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
